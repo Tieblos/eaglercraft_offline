@@ -14,7 +14,7 @@ also if you want, you can also use google drive to download the file
 # VERY  IMPORTANT INFO
 <h2>IF YOU PLAY ON CHROMEBOOKS:</h2>
 <p>go to your files and open "recents" then find the downloaded eaglercraft file, make sure it says "EaglerCraft_Offline"
-, or if you download the zip, extract it and open he "main" folder.</p>
+, or if you download the zip, extract it and open the "main" folder.</p>
 
 <h2>ON OTHER DEVICES(such as windows computers):</h2>
 <p>its about the same as on chromebooks, go to file manger and "downloads" tab and exract the .zip file</p>
